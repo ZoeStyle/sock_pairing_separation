@@ -6,7 +6,7 @@ Há uma grande pilha de meias que devem ser combinadas por cor. Dada uma matriz 
 
 ## Exemplo
 
-ar = [1, 2, 1, 2, 1, 3, 2]
+- ar = [1, 2, 1, 2, 1, 3, 2]
 
 Há um par de cor 1 e um de cor 2. Restam três meias ímpares, uma de cada cor. O número de pares é 2.
 
@@ -24,7 +24,7 @@ sockMerchant tem os seguintes parâmetros:
 
 ## Devoluções
 
-int: o número de pares
+- int: o número de pares
 
 ---
 
